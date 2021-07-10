@@ -21,5 +21,5 @@ Característica: pagina utest.com
     |<contraseña>|
     Ejemplos:
       |nombre|apellido|correoElectronico|fechaNaciMes|fechaNaciDia|fechaNaciAño|idioma|ciudad|codigoPostal|pais|computadora|version|idiomaComputador|dispositivoMovil|modelo|sitemaOperativoMovil|contraseña|
-      |Fredy|Graciano Cardona|gracianito2005@hotmail.com|August|22|1986|Spanish|MEDELLIN|054448|Colombia|Linux|Lubuntu|Spanish|Alcatel|Pop C7|Android 4.2.2|Fredy_123#|
+      |Fredy|Graciano Cardona|gracianito2005@gmail.com|August|22|1986|Spanish|MEDELLIN|054448|Colombia|Linux|Lubuntu|Spanish|Alcatel|Pop C7|Android 4.2.2|Fredy_123#|
 

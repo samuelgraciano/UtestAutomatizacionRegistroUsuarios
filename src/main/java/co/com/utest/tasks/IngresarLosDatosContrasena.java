@@ -27,7 +27,7 @@ public class IngresarLosDatosContrasena implements Task {
                 Enter.theValue(contraseña).into(UtestDatosPersonales.CONFIRMAR_CONTRASEÑA),
                 Click.on(UtestDatosPersonales.TERMINOS_USO_UTEST),
                 Click.on(UtestDatosPersonales.POLITICA_PRIVACIDAD),
-                Click.on(UtestDatosPersonales.BOTON_SIGUIENTE),
+               // Click.on(UtestDatosPersonales.BOTON_SIGUIENTE),
                 WaitFor.seconds(4)
         );
 
